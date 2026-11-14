@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp Voice Note Transcriber Bot",
+  "description": "בוט וואטסאפ חכם לתמלול הודעות קוליות ושליחת התמלול בעיכוב מוגדר של 10 שניות בעזרת Gemini AI וחיבור ל-WhatsApp Cloud API",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
